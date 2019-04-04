@@ -1,0 +1,11 @@
+[Unit]
+Description=Glows your monster keyboard
+
+[Service]
+Type=simple
+User=root
+ExecStart=/bin/bash /opt/MonsterKeyboard/run.sh
+
+[Install]
+WantedBy=multi-user.target
+

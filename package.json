@@ -9,6 +9,7 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
+    "delay": "^4.1.0",
     "rgb-color": "^2.1.2",
     "usb": "^1.3.3"
   }
