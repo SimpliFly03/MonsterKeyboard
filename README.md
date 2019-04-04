@@ -1,7 +1,7 @@
-## ITE Per-Key RGB Keyboard Control
+## Monster RGB Keyboard Control
 
-A node.js program to manage the per-key RGB backlight for keyboards on ITE
-laptops. (In particular, mine is an 'ITE 8291')
+A node.js program to manage the per-key RGB backlight for keyboards on Monster
+laptops. (In particular, mine is an 'Monster Abra A5 v14.1')
 
 Work in progress...
 
